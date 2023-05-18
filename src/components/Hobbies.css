@@ -1,0 +1,42 @@
+.hobbies{
+    padding: 0;margin: 120px 0;
+}
+
+.hobbies h2{
+    background-color:yellow;
+    color:black;
+    letter-spacing: 5px;
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.hobbies_icons{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hobbies_icons .MuiSvgIcon-root{
+    font-size: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(116, 118, 118, 0.073);
+    margin: 50px;
+    padding: 15px;
+    transition: all 0.3s;
+}
+
+.hobbies_icons p{
+    font-size: 20px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.hobbies_icons .MuiSvgIcon-root:hover {
+    background-color: yellow;
+    padding: 18px;
+    border-radius: 50px;
+}

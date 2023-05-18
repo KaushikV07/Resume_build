@@ -1,0 +1,62 @@
+.Contact{
+    margin: 150px 0;
+    padding: 0;
+}
+
+.col-1{
+    margin: -150px 0;
+}
+
+.Contact h2{
+    background-color:yellow;
+    color:black;
+    letter-spacing: 5px;
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+.contact_icons li{
+    list-style: none;
+    line-height: 50px;
+    font-size: 18px;
+    
+}
+
+.contact_icons .MuiSvgIcon-root{
+    font-size: 25px;
+    margin-right: 10px;
+    color: black;
+}
+
+.education_icons{
+    line-height: 35px;
+}
+.education_icons li{
+    font-size: 20px;
+    font-weight: 600;
+    list-style: square;
+    color: rgb(2, 131, 2);
+}
+
+.education_icons strong{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.education_icons span{
+    font-weight: 600;
+    color: rgba(4, 111, 6, 0.989);
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.education_icons h4{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.inten{
+    margin-top: 50px;
+}

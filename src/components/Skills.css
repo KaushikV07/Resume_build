@@ -1,0 +1,41 @@
+.skills{
+    padding: 0;margin: -100px 0;
+}
+
+.skills h2{
+    background-color:yellow;
+    color:black;
+    letter-spacing: 5px;
+    display: inline-block;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.skills_range{
+    line-height: 60px;
+    font-size: 20px;
+    list-style:square;
+    font-weight: 600;
+}
+
+.training{
+    margin-top: 50px;
+}
+
+.training_details li{
+    list-style: none;
+}
+.training_details h3{
+    font-size: 22px;
+    margin-bottom: -30px;   
+    font-weight: 600;
+}
+
+.training_details p{
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
